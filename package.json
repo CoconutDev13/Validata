@@ -1,0 +1,13 @@
+{
+  "name": "validata",
+  "version": "0.0.1",
+  "description": "0 dependencies validation library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "CoconutDev13",
+  "license": "ISC",
+  "type": "module"
+}
