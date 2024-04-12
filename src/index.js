@@ -1,4 +1,4 @@
-export class Validata {
+export class Valideus {
     #fields
 
     constructor () {
