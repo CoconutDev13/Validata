@@ -1,12 +1,16 @@
 {
   "name": "valideus",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "0 dependencies validation library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoconutDev13/Validata"
+  },
   "main": "src/index.js",
   "scripts": {
     "test": "mocha tests/*.test.js"
   },
-  "keywords": [],
+  "keywords": ["validation", "data-validation", "valideus", "form-validation"],
   "author": "CoconutDev13",
   "license": "ISC",
   "type": "module"
